@@ -1,5 +1,8 @@
+import java.util.Observable;
+import java.util.Observer;
 
-public class BadGuy 
+
+public class BadGuy implements Observer
 {
 
 	public BadGuy(EyeOfSauron eye, String string)
@@ -10,6 +13,13 @@ public class BadGuy
 	public void defeated() 
 	{
 		
+		
+	}
+
+	@Override
+	public void update(Observable o, Object arg) 
+	{
+
 		
 	}
 
