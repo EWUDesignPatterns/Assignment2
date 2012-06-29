@@ -4,7 +4,7 @@ import java.util.Observer;
 
 public class BadGuy implements Observer
 {
-
+ 
 	public BadGuy(EyeOfSauron eye, String string)
 	{
 		
