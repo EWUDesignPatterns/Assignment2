@@ -1,8 +1,10 @@
 
-public class EyeOfSauron {
+public class EyeOfSauron 
+{
 
-	public void setEnemies(int i, int j, int k, int l) {
-		// TODO Auto-generated method stub
+	public void setEnemies(int hobbits, int elves, int dwarves, int men) 
+	{
+		
 		
 	}
 

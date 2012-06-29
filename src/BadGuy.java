@@ -1,12 +1,15 @@
 
-public class BadGuy {
+public class BadGuy 
+{
 
-	public BadGuy(EyeOfSauron eye, String string) {
-		// TODO Auto-generated constructor stub
+	public BadGuy(EyeOfSauron eye, String string)
+	{
+		
 	}
 
-	public void defeated() {
-		// TODO Auto-generated method stub
+	public void defeated() 
+	{
+		
 		
 	}
 
