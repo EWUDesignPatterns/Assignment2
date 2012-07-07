@@ -4,8 +4,8 @@ import java.util.Observer;
 
 public class BadGuy implements Observer
 {
-	String name;
-	EyeOfSauron eye;
+	private String name;
+	private EyeOfSauron eye;
  
 	public BadGuy(EyeOfSauron eye, String name)
 	{
